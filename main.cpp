@@ -3,7 +3,7 @@
 #include <iostream>
 // === БЛОК ПОДКЛЮЧЕНИЙ: каждый участник добавляет свой заголовочный файл ===
 // #include "levina.h"
-// #include "proschalygina.h"
+#include "proschalygina.h"
 // #include "starchenko.h"
 // === КОНЕЦ БЛОКА ПОДКЛЮЧЕНИЙ ===
 using namespace std;
